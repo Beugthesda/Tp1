@@ -17,6 +17,21 @@
 	background-position: center;
 	background-image: url("../img/calais.jpg");
 	position: relative;
+	margin-bottom: 20px;
 	background-size: contain;
 	background-repeat: no-repeat;
+}
+
+form{
+	border : 1px solid;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	width: 300px;
+	background-position: center;
+	margin: auto; 
+}
+
+body{
+	text-align: center;
 }
